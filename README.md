@@ -53,3 +53,19 @@ $ yarn build
 ```
 
 มันจะสร้าง folder `dist` ซึ่งเป็น folder ที่มีการ compile และบีบอัด code ส่วนต่าง ๆ เพื่อนำไป run บน production  
+
+# Run Dist 
+
+### 1. Install Serve  
+```sh
+$ npm install -g serve  
+$ serve --version  
+11.2.0  
+```
+
+### 2. Run 
+```sh
+$ serve -s dist  
+```
+
+ลองเข้า http://localhost:5000 
