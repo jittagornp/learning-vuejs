@@ -30,3 +30,12 @@ $ vue create <PROJECT_NAME>
 ? Pick the Package Manager : เลือกเป็น YARN 
 
 ![](create-project_2.png)
+
+### 3. Run 
+
+```sh
+$ cd <PROJECT_NAME>  
+$ yarn serve 
+```
+
+ลองเข้า http://localhost:8080/    
