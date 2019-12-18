@@ -69,3 +69,10 @@ $ serve -s dist
 ```
 
 ลองเข้า http://localhost:5000 
+
+### 3. เปลี่ยน port 
+```sh
+$ serve -s dist -l 8080  
+```
+
+ลองเข้า http://localhost:8080   
