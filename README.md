@@ -33,7 +33,7 @@ $ vue create <PROJECT_NAME>
 
 ![](create-project_2.png)
 
-### 3. Run 
+### 3. Run Dev  
 
 ```sh
 $ cd <PROJECT_NAME>  
@@ -45,3 +45,11 @@ $ yarn serve
 # Project Structure  
 
 <img src="project-structure.png" width="400px"/>
+
+# Build for Production 
+
+```sh
+$ yarn build 
+```
+
+มันจะสร้าง folder `dist` ซึ่งเป็น folder ที่มีการ compile แลบีบอัด code ส่วนต่าง ๆ เพื่อนำไป run บน production  
