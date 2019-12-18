@@ -23,3 +23,5 @@ $ vue --version
 ```sh
 $ vue create <PROJECT_NAME> 
 ```
+? Please pick a preset : เลือกเป็น default
+? Pick the Package Manager : เลือกเป็น YARN 
