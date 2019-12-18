@@ -2,6 +2,8 @@
 
 > https://cli.vuejs.org/guide/  
 
+# Install  
+
 ### 1. Install Vue CLI
 
 ดู npm (node package manager) version ในเครื่อง
@@ -39,3 +41,7 @@ $ yarn serve
 ```
 
 ลองเข้า http://localhost:8080/    
+
+# Project Structure  
+
+<img src="project-structure.png" width="400px"/>
