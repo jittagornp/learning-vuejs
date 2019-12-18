@@ -24,4 +24,9 @@ $ vue --version
 $ vue create <PROJECT_NAME> 
 ```
 ? Please pick a preset : เลือกเป็น default  
+
+![](create-project_1.png)
+
 ? Pick the Package Manager : เลือกเป็น YARN 
+
+![](create-project_2.png)
