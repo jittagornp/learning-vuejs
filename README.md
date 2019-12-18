@@ -52,4 +52,4 @@ $ yarn serve
 $ yarn build 
 ```
 
-มันจะสร้าง folder `dist` ซึ่งเป็น folder ที่มีการ compile แลบีบอัด code ส่วนต่าง ๆ เพื่อนำไป run บน production  
+มันจะสร้าง folder `dist` ซึ่งเป็น folder ที่มีการ compile และบีบอัด code ส่วนต่าง ๆ เพื่อนำไป run บน production  
