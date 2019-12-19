@@ -1,4 +1,4 @@
-# การใช้งาน Vuew Router
+# การใช้งาน Vue Router
 
 # Install
 
