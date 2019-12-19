@@ -1,4 +1,4 @@
-# Setup   
+# Setup Project  
 
 ### 1. Install Vue CLI
 
