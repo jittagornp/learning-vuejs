@@ -45,4 +45,5 @@ new Vue({
 }).$mount('#app');
 ```
 
+![](vue_router_2.png)
 
