@@ -19,4 +19,30 @@ Vue.use(VueRouter)
   
 ![](vue_router_1.png)
 
+### 3. Config Route
+
+ที่ไฟล์ main.js ให้ 
+```js
+...
+const routes = [
+  {
+    path : '/', 
+    component : <YOUR_COMPONENT>
+  },
+  {
+    path : '/change-password', 
+    component : <YOUR_COMPONENT>
+  }
+];
+
+const router = new VueRouter({
+  routes: routes
+});
+...
+new Vue({
+  render: h => h(App),
+  router : router /* add router */
+}).$mount('#app');
+```
+
 
