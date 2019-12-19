@@ -71,3 +71,14 @@ new Vue({
 ...
 ```
 ![](vue_router_3.png)
+
+
+### 5. กำหนด Mode History 
+
+ที่ไฟล์ main.js ให้ กำหนด `VueRouter` เป็น  
+```js
+const router = new VueRouter({
+  mode: 'history',
+  routes: routes
+});
+```
