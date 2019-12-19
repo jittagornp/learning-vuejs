@@ -47,3 +47,15 @@ new Vue({
 
 ![](vue_router_2.png)
 
+### 4. Config HTML
+
+ที่ไฟล์ App.vue 
+```vue
+<template>
+...
+<router-view></router-view> 
+...
+</template>
+...
+```
+![](vue_router_3.png)
