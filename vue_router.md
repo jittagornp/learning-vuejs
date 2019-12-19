@@ -47,7 +47,19 @@ new Vue({
 
 ![](vue_router_2.png)
 
-### 4. Config HTML
+### 3. กำหนด Router Link
+
+```html
+<router-link to="<FIXED_ROUTE_PATH>">Go to Foo</router-link>
+```
+หรือ 
+```html
+<router-link v-bind:to="{{<DYNAMIC_ROUTE_PATH>}}">Go to Foo</router-link>
+```
+
+![](vue_router_4.png)
+
+### 4. กำหนด Router View 
 
 ที่ไฟล์ App.vue 
 ```vue
