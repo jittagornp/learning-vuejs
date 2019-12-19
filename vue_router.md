@@ -82,3 +82,9 @@ const router = new VueRouter({
   routes: routes
 });
 ```
+
+### 6. กำหนด Not Found Page
+
+กรณีที่ไม่พบ route ตามที่เรา config ไว้  
+
+![](vue_router_5.png)
